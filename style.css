@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #10102d, #35206b);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+h1 {
+    color: #ffd700;
+    font-size: 38px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+
+h3 {
+    color: #ffd700;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    max-width: 400px;
+    margin: auto;
+}
+
+li {
+    background: white;
+    color: #25134c;
+    padding: 15px;
+    margin: 12px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.hero-title {
+    font-size: 50px;
+    color: #ffd700;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px #ffffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.welcome-banner {
+    background: linear-gradient(135deg, #35206b, #10102d);
+    border: 2px solid #ffd700;
+    border-radius: 20px;
+    padding: 30px 20px;
+    margin: 25px auto;
+    max-width: 850px;
+    box-shadow: 0 0 15px #ffd700;
+}
+
+.welcome-banner h2 {
+    color: #ffd700;
+    font-size: 28px;
+}
+
+.welcome-banner p {
+    color: white;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
